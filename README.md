@@ -1,49 +1,26 @@
-# React Native Login Template
+# Wareport - B2B Supplier Connection Solution (Frontend React Native)
 
-This repo is proudly sponsored by:
+Wareport is a B2B solution designed to connect regional suppliers seamlessly. Built using React Native for the frontend and Node.js for the backend, Wareport streamlines the procurement process, making it efficient and convenient for businesses.
 
-<a href="https://reactnativemarket.com/" rel="nofollow" target="_blank">
-  <img src="https://raw.githubusercontent.com/venits/react-native-market/master/assets/banner.png" width="280"><br />
-  React Native Templates & Starter Kits and Apps for easier start.
-</a>
+## Features
 
-## Demo
+- **Supplier Connection:** Easily connect with regional suppliers through the Wareport platform.
+  
+- **Simplified Procurement:** Streamline the procurement process, from browsing suppliers to placing orders, all in one platform.
 
-https://simple-login-template.web.app
+- **Order Tracking:** Track orders from placement to delivery, ensuring transparency and accountability.
 
-## How to use?
+- **Language Support:** Choose between English and Korean language options for enhanced accessibility.
 
-1. Download or clone this repo.
+- **Profile Picture:** Add a profile picture to personalize your account and enhance user engagement.
 
-2. Install dependencies.
+- **Edit Account Details:** Easily update account information such as contact details, address, and preferences.
 
-```js
-npm install
-// or
-yarn install
-```
+## Screenshots
 
-3. Run project on iOS / Android.
 
-```js
- npm run ios // npm run android
- // or
- yarn ios // yarn android
-```
+<img src="screenshot1.jpeg" alt="Screenshot 1" width="200" >
+<img src="screenshot2.jpeg" alt="Screenshot 2" width="200" >
+<img src="screenshot3.jpeg" alt="Screenshot 3" width="200" >
+<img src="screenshot4.jpeg" alt="Screenshot 4" width="200" >
 
-## Preview
-
-![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
-![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/login.png)
-![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/register.png)
-![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/forgot.png)
-![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/dashboard.png)
-
-## Support
-
-In case of any questions or problems, please contact me at:
-[hello@reactnativemarket.com](mailto:hello@reactnativemarket.com)
-
-### Happy Coding 🚀
-
-### [ReactNativeMarket.com](http://reactnativemarket.com/)
