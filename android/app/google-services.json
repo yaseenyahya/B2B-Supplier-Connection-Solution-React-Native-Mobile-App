@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722820642291",
+    "project_id": "wareport-ef6aa",
+    "storage_bucket": "wareport-ef6aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722820642291:android:c08cf68c55493d4a490e86",
+        "android_client_info": {
+          "package_name": "com.shr.reports.Wareport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722820642291-u53eoig27puj42sao9qbvdqn8ajpkr6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shr.reports.Wareport",
+            "certificate_hash": "41f3fc452c52bdc7c7665eb51b0ce1a831c49865"
+          }
+        },
+        {
+          "client_id": "722820642291-njq303g8kfmi9p2k8vr4onjj2qqqbfaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcerbwykKCagtY5cX46uojvQgdrnIecbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722820642291-njq303g8kfmi9p2k8vr4onjj2qqqbfaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
